@@ -1,4 +1,4 @@
-# SSO Camp Web Application
+# SSO Camp Web Application {Project for Learning Mongo Cloud DB Mongo Atlas}
 
 This web application allows users to add, view, access, and rate campgrounds by location. 
 
