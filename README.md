@@ -1,4 +1,4 @@
-# Secops Camp Web Application
+# SSO Camp Web Application
 
 This web application allows users to add, view, access, and rate campgrounds by location. 
 
